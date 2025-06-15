@@ -20,19 +20,11 @@ Me chamo **[Seu Nome Aqui]** e sou apaixonado por tecnologia, desenvolvimento de
 
 ---
 
-## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUÁRIO_AQUI&show_icons=true&theme=radical" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUÁRIO_AQUI&layout=compact&theme=radical" />
-</div>
+contato
 
----
-
-## 🌍 Vamos nos conectar?
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINK_AQUI)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliaquim-quintino)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eliaquimquintino@gmail.com.com)
 
 ---
 
