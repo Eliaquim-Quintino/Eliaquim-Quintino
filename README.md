@@ -1,14 +1,5 @@
 # 👋 Olá! Seja bem-vindo(a) ao meu GitHub!
 
-Me chamo **[Seu Nome Aqui]** e sou apaixonado por tecnologia, desenvolvimento de software e aprendizado contínuo.
-
-- 🎓 Sou [sua formação, ex: estudante de Ciência da Computação / Engenheiro de Software].
-- 💼 Atualmente trabalho com [ex: desenvolvimento web, dados, IA...].
-- 🌱 Sempre aprendendo algo novo — recentemente estudando [ex: React, Docker, Python...].
-- 🚀 Tenho interesse em contribuir com projetos open source e compartilhar conhecimento.
-
----
-
 ## 🛠️ Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
