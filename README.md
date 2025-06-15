@@ -11,9 +11,6 @@
 
 ---
 
-
-contato
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliaquim-quintino)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eliaquimquintino@gmail.com.com)
 
