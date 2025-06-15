@@ -19,6 +19,12 @@
 ![Maxima](https://img.shields.io/badge/-Maxima-073763?style=flat&logo=gnu&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
 ![OBS Studio](https://img.shields.io/badge/-OBS%20Studio-302E31?style=flat&logo=obsstudio&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![NotebookLM](https://img.shields.io/badge/-NotebookLM-4285F4?style=flat&logo=google&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/-Microsoft%20365-D83B01?style=flat&logo=microsoft&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
+![Microsoft Loop](https://img.shields.io/badge/-Microsoft%20Loop-8938FF?style=flat&logo=microsoftloop&logoColor=white)
+![Obsidian](https://img.shields.io/badge/-Obsidian-483699?style=flat&logo=obsidian&logoColor=white)
 
 
 ---
